@@ -1,2 +1,3 @@
 # afik
  ad.
+"# diamondsTest" 
